@@ -1,7 +1,7 @@
-import step1 from "../assets/icons/works/step1.svg"
-import step2 from "../assets/icons/works/step2.svg"
-import step3 from "../assets/icons/works/step3.svg"
-import step4 from "../assets/icons/works/step4.svg"
+import step1 from "../assets/works/step1.svg"
+import step2 from "../assets/works/step2.svg"
+import step3 from "../assets/works/step3.svg"
+import step4 from "../assets/works/step4.svg"
 export const WData = [
     {
         icon:step1,
