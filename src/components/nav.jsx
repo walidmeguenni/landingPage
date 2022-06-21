@@ -1,7 +1,7 @@
 import React, { useState, Fragment } from "react";
 import { AppBar, Toolbar, Typography, Link, Button, } from "@material-ui/core";
 import useStyles from "../styles/js/Nav1";
-import logo from "../assets/logo/Vector 7.svg";
+import logo from "../assets/img/logo/Vector 7.svg";
 import Drwer1 from "./Drwer1";
 const NavBarData = [
   { value: "Home", link: "#main" },
